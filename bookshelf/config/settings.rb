@@ -1,4 +1,4 @@
-# frozen_string_literal: true
+# config/settings.rb
 
 module Bookshelf
   class Settings < Hanami::Settings
